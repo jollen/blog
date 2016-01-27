@@ -9,5 +9,5 @@
 
 ## Open Issues
 
-* 2015-12-21: [如何更新 LinkIt Smart 7688 (Duo) Firmware（編譯 OpenWrt）](https://github.com/jollen/blog/issues/4)
-* 2015-12-21: [LinkIt Smart 7688 (Duo) 與 Embedded Linux 快速上手](https://github.com/jollen/blog/issues/3)
+* 2015-12-21: [如何更新 LinkIt Smart 7688 (Duo) Firmware（編譯 OpenWrt）](https://github.com/jollen/blog/issues/3)
+* 2015-12-21: [LinkIt Smart 7688 (Duo) 與 Embedded Linux 快速上手](https://github.com/jollen/blog/issues/4)
