@@ -6,6 +6,7 @@
 * 2016-01-07: [RTOS WoT (v0.1.0) 使用 FreeRTOS、 lwIP 與 C++ 元件重用](https://github.com/jollen/blog/issues/7)
 * 2016-01-27: [使用 ESP8266 做為 FreeRTOS 的學習與開發環境](https://github.com/jollen/blog/issues/8)
 * 2016-01-27: [How to build a CoAP message and send it to Internet on ESP8266](https://github.com/jollen/blog/issues/2)
+* 2016-02-04: [如何自行架設 Parse Server](https://github.com/jollen/blog/issues/10)
 
 ## Open Issues
 
