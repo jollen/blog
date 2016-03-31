@@ -9,7 +9,8 @@
 * 2016-02-04: [如何自行架設 Parse Server](https://github.com/jollen/blog/issues/10)
 * 2016-02-15: [學習 Unikernel 與 Runtime.js (Part1)](https://github.com/jollen/blog/issues/12)
 * 2016-02-16: [學習 Unikernel 與 Runtime.js (Part 2)－Build Runtime.js VM Image](https://github.com/jollen/blog/issues/13)
-* 
+* 2016-03-31: [強化串連智付寶（Pay2go）交易的安全性](https://github.com/jollen/blog/issues/18)
+
 ## Open Issues
 
 * 2015-12-21: [如何更新 LinkIt Smart 7688 (Duo) Firmware（編譯 OpenWrt）](https://github.com/jollen/blog/issues/3)
