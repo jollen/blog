@@ -1,3 +1,4 @@
+已出版的文章除了在 Closed Issues 裡，也會發佈在 [Jollen's Blog](http://jollen.org/blog)。
 
 ## Published
 
@@ -10,8 +11,3 @@
 * 2016-02-15: [學習 Unikernel 與 Runtime.js (Part1)](https://github.com/jollen/blog/issues/12)
 * 2016-02-16: [學習 Unikernel 與 Runtime.js (Part 2)－Build Runtime.js VM Image](https://github.com/jollen/blog/issues/13)
 * 2016-03-31: [強化串連智付寶（Pay2go）交易的安全性](https://github.com/jollen/blog/issues/18)
-
-## Open Issues
-
-* 2015-12-21: [如何更新 LinkIt Smart 7688 (Duo) Firmware（編譯 OpenWrt）](https://github.com/jollen/blog/issues/3)
-* 2015-12-21: [LinkIt Smart 7688 (Duo) 與 Embedded Linux 快速上手](https://github.com/jollen/blog/issues/4)
