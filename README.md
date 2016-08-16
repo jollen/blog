@@ -1,5 +1,16 @@
 已出版的文章除了在 Closed Issues 裡，也會發佈在 [Jollen's Blog](http://jollen.org/blog)。
 
+## 開源項目與貢獻
+
+* [Flowchain](https://github.com/flowchain)
+* [WoT.City](https://github.com/wotcity)
+* [Streembit](https://github.com/streembit)
+* [Web of Things](https://github.com/w3c/web-of-things-framework)
+* [Devify](https://github.com/DevifyPlatform)
+
+## 過去文章
+
+
 ## Published
 
 * 2015-12-28: [在 NodeMCU 上使用 er-coap-13](https://github.com/jollen/blog/issues/1)
