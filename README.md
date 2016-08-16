@@ -7,6 +7,7 @@
 * [Streembit](https://github.com/streembit)
 * [Web of Things](https://github.com/w3c/web-of-things-framework)
 * [Devify](https://github.com/DevifyPlatform)
+* [RTOS WoT](https://github.com/jollen/rtos-wot) - Open source FreeRTOS SDK fork for ESP8266 and web of things
 
 ## 過去文章
 
