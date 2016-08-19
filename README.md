@@ -8,7 +8,7 @@
 * [Web of Things](https://github.com/w3c/web-of-things-framework): 貢獻 W3C 的 Web of Things Framework
 * [Devify](https://github.com/DevifyPlatform): 一個 Serverless 與 IoT server biolerplate 的項目
 * [RTOS WoT](https://github.com/jollen/rtos-wot): Open source FreeRTOS SDK fork for ESP8266 and web of things
-* 2016.08.18 開始的項目－[Flowchain-Chord](https://github.com/jollen/flowchain-chord): 預計發展一個超輕量化的 Chord protocols 與 node
+* 2016.08.18 開始的項目－[Flowchain-Chord](https://github.com/jollen/flowchain-chord): 預計實作一個超輕量化的 Chord protocols 與 node
 
 ## 近期文章
 
