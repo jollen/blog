@@ -21,6 +21,7 @@
 * 2016-02-15: [學習 Unikernel 與 Runtime.js (Part1)](https://github.com/jollen/blog/issues/12)
 * 2016-02-16: [學習 Unikernel 與 Runtime.js (Part 2)－Build Runtime.js VM Image](https://github.com/jollen/blog/issues/13)
 * 2016-03-31: [強化串連智付寶（Pay2go）交易的安全性](https://github.com/jollen/blog/issues/18)
+* 更多早期文章: [Jollen's Blog](http://jollen.org/blog)
 
 ## 教育訓練
 
