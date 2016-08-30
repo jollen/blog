@@ -5,7 +5,7 @@
 _Project 52_ is my personal project to implement my ideas weekly.
 
 * Project 3 since 2016.08.30 - [node-serverless-store](https://github.com/jollen/node-serverless-store): A light-weight serverless appliaction chunk store
-* Project 2－since 2016.08.20 - [node-p2p-chord](https://github.com/jollen/node-p2p-chord): To implement a light-wieght peer-to-peer Chord protocols
+* Project 2 since 2016.08.18 - [node-p2p-chord](https://github.com/jollen/node-p2p-chord): To implement a light-wieght peer-to-peer Chord protocols
 * Project 1 since 2016.08.11 - [react-websocket-view](https://github.com/jollen/react-websocket-view)/[react-websocket-flux](https://github.com/jollen/react-websocket-flux): 使用 Flux 實作簡單的 React over Websocket，並使用 react-websocket-flux 讓 elements（例如：&lt;p&gt;、&lt;h2&gt;）具備 WebSocket client 的功能
 
 
