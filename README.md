@@ -56,5 +56,5 @@
 * [Promise: 輕鬆上手 JavaScript Asynchronous](https://www.mokoversity.com/course/React/Promise-Beginner)
 * [輕鬆上手 Flux 應用架構：使用 React](https://www.mokoversity.com/course/React/React-Flux-Beginner)
 * [Node.js Beginner: 輕鬆入門 Node.js 程式設計](https://www.mokoversity.com/course/Nodejs/Nodejs-Beginner)
-* [React 101 輕鬆入門)(https://www.mokoversity.com/course/React/React-101-Online)
+* [React 101 輕鬆入門](https://www.mokoversity.com/course/React/React-101-Online)
 * [React Material UI： 打造扁平化風格的 SPA](https://www.mokoversity.com/course/React/React-Material-UI)
