@@ -1,13 +1,16 @@
 已出版的文章除了在 Closed Issues 裡，也會發佈在 [Jollen's Blog](http://jollen.org/blog)。
 
-## 貢獻中或開發中的開源項目
+## My Projects
 
 * [Flowchain](https://github.com/flowchain): 一個超輕量化的 flow-based runtime，針對 IoT 應用而生
 * [WoT.City](https://github.com/wotcity): 一個 Web of Things 的協定封裝
-* [Streembit](https://github.com/streembit): 一個 P2P 的去中心化 (decentralized) 通訊系統，可用於 IoT
-* [Web of Things](https://github.com/w3c/web-of-things-framework): 貢獻 W3C 的 Web of Things Framework
 * [Devify](https://github.com/DevifyPlatform): 一個 Serverless 與 IoT server biolerplate 的項目
 * [RTOS WoT](https://github.com/jollen/rtos-wot): Open source FreeRTOS SDK fork for ESP8266 and web of things
+
+## 近期的貢獻
+
+* [Streembit](https://github.com/streembit): 一個 P2P 的去中心化 (decentralized) 通訊系統，可用於 IoT
+* [Web of Things](https://github.com/w3c/web-of-things-framework): 貢獻 W3C 的 Web of Things Framework
 
 ## Jollen's Lab
 
