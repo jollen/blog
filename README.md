@@ -12,6 +12,8 @@
 ## Jollen's Lab
 
 * 2016.08.18 開始的項目－[node-p2p-chord](https://github.com/jollen/node-p2p-chord): 預計實作一個超輕量化的 Chord protocols 與 node
+* [react-websocket-flux](https://github.com/jollen/react-websocket-flux): 使用 Flux 實作簡單的 React over Websocket
+* [react-websocket-view](https://github.com/jollen/react-websocket-view): 使用 react-websocket-flux 讓 elements（例如：</p>、<h2>）具備 WebSocket client 的功能
 * 2016.08.30 開始的項目 - [node-serverless-store](https://github.com/jollen/node-serverless-store): 預計實作一個輕量化的 serverless chunk store
 
 ## 近期文章
