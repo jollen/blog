@@ -2,7 +2,7 @@
 
 ## Project 52
 
-_Project 52_ is a my home project to implement an idea on every single week.
+_Project 52_ is my personal project to implement one idea of every single week.
 
 * Project 4 since 2016.08.30 - [node-serverless-store](https://github.com/jollen/node-serverless-store): A light-weight serverless appliaction chunk store
 * Project 3－[node-p2p-chord](https://github.com/jollen/node-p2p-chord): To implement a light-wieght peer-to-peer Chord protocols
