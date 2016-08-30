@@ -1,5 +1,15 @@
 已出版的文章除了在 Closed Issues 裡，也會發佈在 [Jollen's Blog](http://jollen.org/blog)。
 
+## Project 52
+
+_Project 52_ is a my home project to implement an idea on every single week.
+
+* Project 4 since 2016.08.30 - [node-serverless-store](https://github.com/jollen/node-serverless-store): A light-weight serverless appliaction chunk store
+* Project 3－[node-p2p-chord](https://github.com/jollen/node-p2p-chord): To implement a light-wieght peer-to-peer Chord protocols
+* Project 2 - [react-websocket-flux](https://github.com/jollen/react-websocket-flux): 使用 Flux 實作簡單的 React over Websocket
+* Project 1 - [react-websocket-view](https://github.com/jollen/react-websocket-view): 使用 react-websocket-flux 讓 elements（例如：&lt;p&gt;、&lt;h2&gt;）具備 WebSocket client 的功能
+
+
 ## My Projects
 
 * [Flowchain](https://github.com/flowchain): 一個超輕量化的 flow-based runtime，針對 IoT 應用而生
@@ -11,13 +21,6 @@
 
 * [Streembit](https://github.com/streembit): 一個 P2P 的去中心化 (decentralized) 通訊系統，可用於 IoT
 * [Web of Things](https://github.com/w3c/web-of-things-framework): 貢獻 W3C 的 Web of Things Framework
-
-## Jollen's Lab
-
-* 2016.08.18 開始的項目－[node-p2p-chord](https://github.com/jollen/node-p2p-chord): 預計實作一個超輕量化的 Chord protocols 與 node
-* [react-websocket-flux](https://github.com/jollen/react-websocket-flux): 使用 Flux 實作簡單的 React over Websocket
-* [react-websocket-view](https://github.com/jollen/react-websocket-view): 使用 react-websocket-flux 讓 elements（例如：&lt;p&gt;、&lt;h2&gt;）具備 WebSocket client 的功能
-* 2016.08.30 開始的項目 - [node-serverless-store](https://github.com/jollen/node-serverless-store): 預計實作一個輕量化的 serverless chunk store
 
 ## 近期文章
 
