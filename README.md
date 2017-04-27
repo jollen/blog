@@ -4,7 +4,7 @@
 
 * Jollen Chen: [Flowchain: A Distributed Ledger Designed for Peer-to-Peer IoT Networks and Real-time Data Transactions.](https://sites.google.com/site/lddleswc17/program) 2nd International Workshop on Linked Data and Distributed Ledgers, Co-located at ESWC 2017, Portoroz, Slovenia, 29th May 2017.
 
-> 將在 Linked Data and Distributed Ledgers 上發論論文，提出一種以 Virtual Block（虛擬區塊）的概念，打造 IoT Blockchain 的研究成果。
+> 在斯洛維尼亞舉行的 Linked Data and Distributed Ledgers 國際研討會上，將發表一篇論文，提出一種以 Virtual Block（虛擬區塊）的概念，打造 IoT Blockchain 的研究成果。
 
 ## Idea Projects
 
