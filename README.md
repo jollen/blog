@@ -2,9 +2,17 @@ The closed issues were publishing at [Jollen's Blog](http://jollen.org/blog)
 
 # Recent Presentations
 
-* Jollen: Flowchain: A Case Study on Building a Blockchain for the IoT in Node.js, flowchain.co. LinuxConf + ContainerCon + CloudOpen, June 19, 2017, Beijing, China.
-* Jollen: [Flowchain: A Distributed Ledger Designed for Peer-to-Peer IoT Networks and Real-time Data Transactions.](https://sites.google.com/site/lddleswc17/program) 2nd International Workshop on Linked Data and Distributed Ledgers, Co-located at ESWC 2017, May 29, 2017, Portoroz, Slovenia.
-* Jollen: Devify: Decentralized Internet of Things Software Framework for a Peer-to-Peer and Interoperable IoT Device. Workshop on Advances in IoT Architecture and Systems, June 25, 2017, Toronto, Canada.
+* Jollen Chen: Flowchain: A Case Study on Building a Blockchain for the IoT in Node.js, LinuxConf + ContainerCon + CloudOpen (LC3), June 19, 2017, Beijing, China.
+
+* Jollen Chen: [Flowchain: A Distributed Ledger Designed for Peer-to-Peer IoT Networks and Real-time Data Transactions.](https://sites.google.com/site/lddleswc17/program) 2nd International Workshop on Linked Data and Distributed Ledgers (co-located at ESWC 2017), Co-located at ESWC 2017, May 29, 2017, Portoroz, Slovenia.
+
+* Jollen Chen: Devify: Decentralized Internet of Things Software Framework for a Peer-to-Peer and Interoperable IoT Device, Workshop on Advances in IoT Architecture and Systems (co-located at ISCA 2017), June 25, 2017, Toronto, Canada.
+
+* Jollen Chen: Flowchain - A Hybrid Blockchain for the IoT and Tokenized Hardware,  LinuxCon + ContainerCon + CloudOpen (LC3), June 26, 2018, Beijing, China.
+
+* Jollen Chen: Building an open source hybrid blockchain for the IoT, FOSSASIA Summit (2018), March 24, 2018.
+
+* Jollen Chen: [Flowchain - A Hybrid Blockchain for the IoT and Tokenized Hardware](https://ossalsjp18.sched.com/event/EaYJ/flowchain-a-hybrid-blockchain-for-the-iot-and-tokenized-hardware-jollen-chen-flowchainco), Open Source Summit Japan, June 20, 2018.
 
 # Recent Publications
 
